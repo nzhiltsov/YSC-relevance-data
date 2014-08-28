@@ -1,11 +1,11 @@
 YSC Relevance Data
 =================
 
-The project contains a combined query set and extended assessment files from the [Yahoo! SemSearch Challenge 2010/11](http://semsearch.yahoo.com) evaluation campaigns. The relevance labels have been acquired after an evaluation campaign on [Amazon Mechanical Turk](http://mturk.com) followed by a thorough quality control analysis (see details in the papers provided below).
+The project contains a combined query set and extended assessment files from the [Yahoo! SemSearch Challenge 2010/11](http://semsearch.yahoo.com) evaluation campaigns. The relevance labels have been acquired after an evaluation campaign on [Amazon Mechanical Turk](http://mturk.com) followed by a thorough quality control analysis (see details in the coming paper).
 
 Current Version
 ------------
-[1.0](https://github.com/nzhiltsov/YSC-relevance-data/archive/1.0.zip)
+[2.0](https://github.com/nzhiltsov/YSC-relevance-data/archive/2.0.zip)
 
 Notes
 ------------
